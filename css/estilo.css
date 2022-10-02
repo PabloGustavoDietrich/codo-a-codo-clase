@@ -1,0 +1,33 @@
+ul {
+    list-style-type: none;
+}    
+li {
+    padding: 1.3em;
+}    
+
+
+.relleno {
+    position: absolute;
+    top:75%;
+    left: 40%;
+    text-align: left;
+    }    
+
+.container {
+float: left;
+}     
+
+.card {
+    width: 300px;
+    
+}   
+
+.honolulu{
+    width: 50%;
+}
+
+.fondoFooter {
+ 
+background-color: rgb(1, 1, 73);
+
+}
