@@ -1,0 +1,266 @@
+* {
+margin: 0;
+padding: 0;
+font-family: Arial, Helvetica, sans-serif;
+}    
+
+/* /////////////////////////////// HEADER ///////////////////////////////////*/ 
+
+.ul_Header {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+
+}
+
+.li_Header {
+    float: left;
+  }
+
+.li_H_a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+
+.li_H1  {
+ font-size: 20px;
+
+}
+
+.li_H2 {
+
+color: grey;
+
+}
+
+.li_H3 {
+
+    color: grey;
+    
+}
+
+.li_H4 {
+
+    color: grey;
+    
+}
+
+.li_H6{
+
+    color: green;
+    
+}
+
+/* ///////////////////////////// CONTAINER ///////////////////////////// */
+
+.container {
+margin-top: 16px ;
+margin-left: 20%;
+margin-right: 20%;
+margin-bottom: 16px;
+}
+
+.Estudiante {
+text-align: center;
+box-sizing: border-box;
+border: #1100fa solid 1px;
+display: inline-block;
+padding: 10px;
+width: 32%;
+}
+
+.descuento_Estudiante_1 {
+   margin-top: 10px;
+   margin-bottom: 10px;
+   font-weight: bolder;
+
+}    
+
+.descuento_Estudiante_3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+    
+}
+
+.descuento_Estudiante_4 {
+    margin-bottom: 10px;
+    color: rgb(138, 138, 138);
+}
+    
+
+.Trainee {
+    text-align: center;
+    box-sizing: border-box;
+    border: #00d4fa solid 1px;
+    display: inline-block;
+    padding: 10px;
+    width: 32%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.descuento_Trainee_1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+    
+}    
+    
+.descuento_Trainee_3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+        
+}
+.descuento_Trainee_4 {
+    margin-bottom: 10px;
+    color: rgb(138, 138, 138);
+    }
+    
+.Junior {
+    text-align: center;
+    box-sizing: border-box;
+    border: #fab700 solid 1px;
+    display: inline-block;
+    padding: 10px;
+    width: 32%;
+}
+
+.descuento_Junior_1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+     
+ }    
+     
+ .descuento_Junior_3 {
+   margin-top: 10px;
+   margin-bottom: 10px;
+   font-weight: bolder;
+         
+ }
+
+.descuento_Junior_4 {
+margin-bottom: 10px;
+color: rgb(138, 138, 138); 
+}
+
+/*////////////////////////////////// MEDIO CONTAINER /////////////////////////////////////*/
+
+
+.venta {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    text-align: center;
+
+}
+
+.valor_ticket {
+    margin-bottom: 16px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+
+}
+
+.Input_Nombre {
+    width: 47%;
+    margin-bottom: 10px;
+    padding: 1%;
+}
+
+.Input_Apellido {
+    width: 47%;
+    margin-bottom: 10px;
+    padding: 1%;
+    
+}
+
+.Input_Email {
+    width: 97%;
+    margin-bottom: 10px;
+    padding: 1%;
+}
+
+.Label_Cantidad {
+    display: inline-block;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+.Label_Categoria {
+    display: inline-block;
+    width: 49%;
+    margin-bottom: 10px;
+
+}
+
+.Input_Cantidad {
+    width: 48%;
+    margin-bottom: 10px;
+    padding: 1%;
+}
+
+.Selector_Descuentos {
+width: 48%;
+margin-bottom: 10px;
+padding: 1%;
+
+}
+
+.Container_Pago {
+    background-color: #a4e2ff;
+    width: 96%;
+    margin-bottom: 10px;
+    color: #000288 ;
+    padding: 2%;
+}
+
+.button_Borrar {
+    width: 49%;
+    margin-bottom: 10px;
+    background-color: #9de42a;
+    border: none;
+    padding: 10px;
+    color: #fff;
+}
+
+.button_Resumen {
+    width: 49%;
+    margin-bottom: 10px;
+    background-color: #9de42a;
+    border: none;
+    padding: 10px;
+    color: #fff;
+}
+
+
+/* ///////////////////////////// FOOTER //////////////////////////////// */
+  .ul_Footer {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #050047;
+
+}
+
+.li_Footer {
+    float: left;
+  }
+
+.li_F_a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+
+
