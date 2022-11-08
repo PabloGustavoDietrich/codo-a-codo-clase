@@ -219,6 +219,7 @@ padding: 1%;
     width: 96%;
     margin-bottom: 10px;
     color: #000288 ;
+    border-radius: 5px;
     padding: 2%;
 }
 
@@ -227,6 +228,7 @@ padding: 1%;
     margin-bottom: 10px;
     background-color: #9de42a;
     border: none;
+    border-radius: 5px;
     padding: 10px;
     color: #fff;
 }
@@ -236,6 +238,7 @@ padding: 1%;
     margin-bottom: 10px;
     background-color: #9de42a;
     border: none;
+    border-radius: 5px;
     padding: 10px;
     color: #fff;
 }
